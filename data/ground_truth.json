@@ -1,0 +1,327 @@
+[
+  {
+    "trace_id": "trace_001",
+    "outcome": "success",
+    "failure_type": null
+  },
+  {
+    "trace_id": "trace_002",
+    "outcome": "success",
+    "failure_type": null
+  },
+  {
+    "trace_id": "trace_003",
+    "outcome": "success",
+    "failure_type": null
+  },
+  {
+    "trace_id": "trace_004",
+    "outcome": "success",
+    "failure_type": null
+  },
+  {
+    "trace_id": "trace_005",
+    "outcome": "success",
+    "failure_type": null
+  },
+  {
+    "trace_id": "trace_006",
+    "outcome": "success",
+    "failure_type": null
+  },
+  {
+    "trace_id": "trace_007",
+    "outcome": "success",
+    "failure_type": null
+  },
+  {
+    "trace_id": "trace_008",
+    "outcome": "success",
+    "failure_type": null
+  },
+  {
+    "trace_id": "trace_009",
+    "outcome": "success",
+    "failure_type": null
+  },
+  {
+    "trace_id": "trace_010",
+    "outcome": "success",
+    "failure_type": null
+  },
+  {
+    "trace_id": "trace_011",
+    "outcome": "recovery",
+    "failure_type": null
+  },
+  {
+    "trace_id": "trace_012",
+    "outcome": "recovery",
+    "failure_type": null
+  },
+  {
+    "trace_id": "trace_013",
+    "outcome": "recovery",
+    "failure_type": null
+  },
+  {
+    "trace_id": "trace_014",
+    "outcome": "recovery",
+    "failure_type": null
+  },
+  {
+    "trace_id": "trace_015",
+    "outcome": "recovery",
+    "failure_type": null
+  },
+  {
+    "trace_id": "trace_016",
+    "outcome": "recovery",
+    "failure_type": null
+  },
+  {
+    "trace_id": "trace_017",
+    "outcome": "recovery",
+    "failure_type": null
+  },
+  {
+    "trace_id": "trace_018",
+    "outcome": "recovery",
+    "failure_type": null
+  },
+  {
+    "trace_id": "trace_019",
+    "outcome": "failure",
+    "failure_type": "unsupported_success"
+  },
+  {
+    "trace_id": "trace_020",
+    "outcome": "failure",
+    "failure_type": "unsupported_success"
+  },
+  {
+    "trace_id": "trace_021",
+    "outcome": "failure",
+    "failure_type": "unsupported_success"
+  },
+  {
+    "trace_id": "trace_022",
+    "outcome": "failure",
+    "failure_type": "unsupported_success"
+  },
+  {
+    "trace_id": "trace_023",
+    "outcome": "failure",
+    "failure_type": "unsupported_success"
+  },
+  {
+    "trace_id": "trace_024",
+    "outcome": "failure",
+    "failure_type": "unsupported_success"
+  },
+  {
+    "trace_id": "trace_025",
+    "outcome": "failure",
+    "failure_type": "unsupported_success"
+  },
+  {
+    "trace_id": "trace_026",
+    "outcome": "failure",
+    "failure_type": "unsupported_success"
+  },
+  {
+    "trace_id": "trace_027",
+    "outcome": "failure",
+    "failure_type": "repeated_question"
+  },
+  {
+    "trace_id": "trace_028",
+    "outcome": "failure",
+    "failure_type": "repeated_question"
+  },
+  {
+    "trace_id": "trace_029",
+    "outcome": "failure",
+    "failure_type": "repeated_question"
+  },
+  {
+    "trace_id": "trace_030",
+    "outcome": "failure",
+    "failure_type": "repeated_question"
+  },
+  {
+    "trace_id": "trace_031",
+    "outcome": "failure",
+    "failure_type": "repeated_question"
+  },
+  {
+    "trace_id": "trace_032",
+    "outcome": "failure",
+    "failure_type": "repeated_question"
+  },
+  {
+    "trace_id": "trace_033",
+    "outcome": "failure",
+    "failure_type": "repeated_question"
+  },
+  {
+    "trace_id": "trace_034",
+    "outcome": "failure",
+    "failure_type": "no_progress"
+  },
+  {
+    "trace_id": "trace_035",
+    "outcome": "failure",
+    "failure_type": "no_progress"
+  },
+  {
+    "trace_id": "trace_036",
+    "outcome": "failure",
+    "failure_type": "no_progress"
+  },
+  {
+    "trace_id": "trace_037",
+    "outcome": "failure",
+    "failure_type": "no_progress"
+  },
+  {
+    "trace_id": "trace_038",
+    "outcome": "failure",
+    "failure_type": "no_progress"
+  },
+  {
+    "trace_id": "trace_039",
+    "outcome": "failure",
+    "failure_type": "no_progress"
+  },
+  {
+    "trace_id": "trace_040",
+    "outcome": "failure",
+    "failure_type": "incomplete_task"
+  },
+  {
+    "trace_id": "trace_041",
+    "outcome": "failure",
+    "failure_type": "incomplete_task"
+  },
+  {
+    "trace_id": "trace_042",
+    "outcome": "failure",
+    "failure_type": "incomplete_task"
+  },
+  {
+    "trace_id": "trace_043",
+    "outcome": "failure",
+    "failure_type": "incomplete_task"
+  },
+  {
+    "trace_id": "trace_044",
+    "outcome": "failure",
+    "failure_type": "incomplete_task"
+  },
+  {
+    "trace_id": "trace_045",
+    "outcome": "failure",
+    "failure_type": "incomplete_task"
+  },
+  {
+    "trace_id": "trace_046",
+    "outcome": "failure",
+    "failure_type": "incomplete_task"
+  },
+  {
+    "trace_id": "trace_047",
+    "outcome": "failure",
+    "failure_type": "wrong_target"
+  },
+  {
+    "trace_id": "trace_048",
+    "outcome": "failure",
+    "failure_type": "wrong_target"
+  },
+  {
+    "trace_id": "trace_049",
+    "outcome": "failure",
+    "failure_type": "wrong_target"
+  },
+  {
+    "trace_id": "trace_050",
+    "outcome": "failure",
+    "failure_type": "wrong_target"
+  },
+  {
+    "trace_id": "trace_051",
+    "outcome": "failure",
+    "failure_type": "wrong_target"
+  },
+  {
+    "trace_id": "trace_052",
+    "outcome": "failure",
+    "failure_type": "wrong_target"
+  },
+  {
+    "trace_id": "trace_053",
+    "outcome": "failure",
+    "failure_type": "wrong_target"
+  },
+  {
+    "trace_id": "trace_054",
+    "outcome": "success",
+    "failure_type": null
+  },
+  {
+    "trace_id": "trace_055",
+    "outcome": "success",
+    "failure_type": null
+  },
+  {
+    "trace_id": "trace_056",
+    "outcome": "success",
+    "failure_type": null
+  },
+  {
+    "trace_id": "trace_057",
+    "outcome": "success",
+    "failure_type": null
+  },
+  {
+    "trace_id": "trace_058",
+    "outcome": "success",
+    "failure_type": null
+  },
+  {
+    "trace_id": "trace_059",
+    "outcome": "success",
+    "failure_type": null
+  },
+  {
+    "trace_id": "trace_060",
+    "outcome": "success",
+    "failure_type": null
+  },
+  {
+    "trace_id": "trace_061",
+    "outcome": "success",
+    "failure_type": null
+  },
+  {
+    "trace_id": "trace_062",
+    "outcome": "ambiguous",
+    "failure_type": null
+  },
+  {
+    "trace_id": "trace_063",
+    "outcome": "ambiguous",
+    "failure_type": null
+  },
+  {
+    "trace_id": "trace_064",
+    "outcome": "ambiguous",
+    "failure_type": null
+  },
+  {
+    "trace_id": "trace_065",
+    "outcome": "ambiguous",
+    "failure_type": null
+  }
+]

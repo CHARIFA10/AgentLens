@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "agentlens"
+version = "0.1.0"
+description = "Failure intelligence for AI-agent traces"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "pydantic",
+    "streamlit",
+    "pandas",
+    "scikit-learn",
+    "numpy",
+    "sentence-transformers",
+]
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["agentlens*"]

@@ -1,0 +1,242 @@
+[
+  {
+    "trace_id": "coding_trace_001",
+    "outcome": "success",
+    "failure_type": null
+  },
+  {
+    "trace_id": "coding_trace_002",
+    "outcome": "success",
+    "failure_type": null
+  },
+  {
+    "trace_id": "coding_trace_003",
+    "outcome": "success",
+    "failure_type": null
+  },
+  {
+    "trace_id": "coding_trace_004",
+    "outcome": "success",
+    "failure_type": null
+  },
+  {
+    "trace_id": "coding_trace_005",
+    "outcome": "success",
+    "failure_type": null
+  },
+  {
+    "trace_id": "coding_trace_006",
+    "outcome": "success",
+    "failure_type": null
+  },
+  {
+    "trace_id": "coding_trace_007",
+    "outcome": "success",
+    "failure_type": null
+  },
+  {
+    "trace_id": "coding_trace_008",
+    "outcome": "success",
+    "failure_type": null
+  },
+  {
+    "trace_id": "coding_trace_009",
+    "outcome": "recovery",
+    "failure_type": null
+  },
+  {
+    "trace_id": "coding_trace_010",
+    "outcome": "recovery",
+    "failure_type": null
+  },
+  {
+    "trace_id": "coding_trace_011",
+    "outcome": "recovery",
+    "failure_type": null
+  },
+  {
+    "trace_id": "coding_trace_012",
+    "outcome": "recovery",
+    "failure_type": null
+  },
+  {
+    "trace_id": "coding_trace_013",
+    "outcome": "recovery",
+    "failure_type": null
+  },
+  {
+    "trace_id": "coding_trace_014",
+    "outcome": "recovery",
+    "failure_type": null
+  },
+  {
+    "trace_id": "coding_trace_015",
+    "outcome": "failure",
+    "failure_type": "unsupported_success"
+  },
+  {
+    "trace_id": "coding_trace_016",
+    "outcome": "failure",
+    "failure_type": "unsupported_success"
+  },
+  {
+    "trace_id": "coding_trace_017",
+    "outcome": "failure",
+    "failure_type": "unsupported_success"
+  },
+  {
+    "trace_id": "coding_trace_018",
+    "outcome": "failure",
+    "failure_type": "unsupported_success"
+  },
+  {
+    "trace_id": "coding_trace_019",
+    "outcome": "failure",
+    "failure_type": "unsupported_success"
+  },
+  {
+    "trace_id": "coding_trace_020",
+    "outcome": "failure",
+    "failure_type": "unsupported_success"
+  },
+  {
+    "trace_id": "coding_trace_021",
+    "outcome": "failure",
+    "failure_type": "incomplete_task"
+  },
+  {
+    "trace_id": "coding_trace_022",
+    "outcome": "failure",
+    "failure_type": "incomplete_task"
+  },
+  {
+    "trace_id": "coding_trace_023",
+    "outcome": "failure",
+    "failure_type": "incomplete_task"
+  },
+  {
+    "trace_id": "coding_trace_024",
+    "outcome": "failure",
+    "failure_type": "incomplete_task"
+  },
+  {
+    "trace_id": "coding_trace_025",
+    "outcome": "failure",
+    "failure_type": "incomplete_task"
+  },
+  {
+    "trace_id": "coding_trace_026",
+    "outcome": "failure",
+    "failure_type": "incomplete_task"
+  },
+  {
+    "trace_id": "coding_trace_027",
+    "outcome": "failure",
+    "failure_type": "no_progress"
+  },
+  {
+    "trace_id": "coding_trace_028",
+    "outcome": "failure",
+    "failure_type": "no_progress"
+  },
+  {
+    "trace_id": "coding_trace_029",
+    "outcome": "failure",
+    "failure_type": "no_progress"
+  },
+  {
+    "trace_id": "coding_trace_030",
+    "outcome": "failure",
+    "failure_type": "no_progress"
+  },
+  {
+    "trace_id": "coding_trace_031",
+    "outcome": "failure",
+    "failure_type": "no_progress"
+  },
+  {
+    "trace_id": "coding_trace_032",
+    "outcome": "failure",
+    "failure_type": "repeated_question"
+  },
+  {
+    "trace_id": "coding_trace_033",
+    "outcome": "failure",
+    "failure_type": "repeated_question"
+  },
+  {
+    "trace_id": "coding_trace_034",
+    "outcome": "failure",
+    "failure_type": "repeated_question"
+  },
+  {
+    "trace_id": "coding_trace_035",
+    "outcome": "failure",
+    "failure_type": "repeated_question"
+  },
+  {
+    "trace_id": "coding_trace_036",
+    "outcome": "failure",
+    "failure_type": "repeated_question"
+  },
+  {
+    "trace_id": "coding_trace_037",
+    "outcome": "success",
+    "failure_type": null
+  },
+  {
+    "trace_id": "coding_trace_038",
+    "outcome": "success",
+    "failure_type": null
+  },
+  {
+    "trace_id": "coding_trace_039",
+    "outcome": "success",
+    "failure_type": null
+  },
+  {
+    "trace_id": "coding_trace_040",
+    "outcome": "success",
+    "failure_type": null
+  },
+  {
+    "trace_id": "coding_trace_041",
+    "outcome": "success",
+    "failure_type": null
+  },
+  {
+    "trace_id": "coding_trace_042",
+    "outcome": "success",
+    "failure_type": null
+  },
+  {
+    "trace_id": "coding_trace_043",
+    "outcome": "success",
+    "failure_type": null
+  },
+  {
+    "trace_id": "coding_trace_044",
+    "outcome": "success",
+    "failure_type": null
+  },
+  {
+    "trace_id": "coding_trace_045",
+    "outcome": "ambiguous",
+    "failure_type": null
+  },
+  {
+    "trace_id": "coding_trace_046",
+    "outcome": "ambiguous",
+    "failure_type": null
+  },
+  {
+    "trace_id": "coding_trace_047",
+    "outcome": "ambiguous",
+    "failure_type": null
+  },
+  {
+    "trace_id": "coding_trace_048",
+    "outcome": "ambiguous",
+    "failure_type": null
+  }
+]
